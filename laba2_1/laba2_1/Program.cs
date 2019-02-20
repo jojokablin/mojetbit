@@ -25,7 +25,7 @@ namespace laba2_1
   
             int f = a / b;
 
-            Console.WriteLine("Результат сложения {0}", c);
+            //Console.WriteLine("Результат сложения {0}", c);
             Console.ReadKey();
         }
     }
