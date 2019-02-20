@@ -17,8 +17,13 @@ namespace laba2_1
 
             //enter sigh
 
+
             int c = a - b;
            
+
+            int e = a * b;
+   
+
             Console.WriteLine("Результат сложения {0}", c);
             Console.ReadKey();
         }
